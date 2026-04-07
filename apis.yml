@@ -1,7 +1,12 @@
 aid: leucadia-national
-url: https://raw.githubusercontent.com/api-evangelist/leucadia-national/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/leucadia-national/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.leucadia-national.com
+description: >-
+  Leucadia National was a diversified holding company engaged in a variety of businesses,
+  including investment banking, beef processing, manufacturing, and real estate, before
+  being renamed Jefferies Financial Group.
