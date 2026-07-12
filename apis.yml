@@ -23,6 +23,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/leucadia-national-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/leucadia-national-corporation
   - type: Website
