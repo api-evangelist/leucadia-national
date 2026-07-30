@@ -7,9 +7,20 @@ description: >-
   Jefferies Financial Group following the merger with Jefferies Group LLC.
   No public API program is documented under the legacy Leucadia National brand.
 kind: company
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Producer
 access: 1st-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/leucadia-national.png
 tags:
   - Holding Company
   - Investment Banking
