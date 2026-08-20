@@ -24,6 +24,12 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/leucadia-n
 tags:
   - Holding Company
   - Investment Banking
+  - Financial-Services
+  - Historical
+  - Fortune 500
+tags_raw:
+  - Holding Company
+  - Investment Banking
   - Financial Services
   - Historical
   - Fortune 500
