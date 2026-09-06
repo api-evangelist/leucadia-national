@@ -66,3 +66,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
+x-parent: jefferies-financial
+x-relationship: rebrand-predecessor
