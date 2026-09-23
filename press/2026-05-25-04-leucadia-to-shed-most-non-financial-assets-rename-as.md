@@ -1,7 +1,9 @@
 ---
 title: Leucadia to shed most non-financial assets, rename as ' ...
 url: https://www.reuters.com/article/business/leucadia-to-shed-most-non-financial-assets-rename-as-jefferies-idUSKBN1HG2U2/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Leucadia National" press release artificial intelligence'
 position: 4
 source: serpapi-google

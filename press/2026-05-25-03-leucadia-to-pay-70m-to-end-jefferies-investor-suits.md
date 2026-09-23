@@ -1,7 +1,9 @@
 ---
 title: Leucadia To Pay $70M To End Jefferies Investor Suits
 url: https://www.law360.com/articles/594012/leucadia-to-pay-70m-to-end-jefferies-investor-suits
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Leucadia National" press release artificial intelligence'
 position: 3
 source: serpapi-google

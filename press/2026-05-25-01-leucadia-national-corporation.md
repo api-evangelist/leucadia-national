@@ -1,7 +1,9 @@
 ---
 title: Leucadia National Corporation
 url: https://www.nytimes.com/topic/company/leucadia-national-corporation
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Leucadia National" press release artificial intelligence'
 position: 1
 source: serpapi-google
